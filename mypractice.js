@@ -1,1 +1,1 @@
-console.log('I love coding')
+console.log('I love coding version 2')
